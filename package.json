@@ -1,0 +1,23 @@
+{
+  "name": "front-ambar",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.5.0",
+    "framer-motion": "^3.2.2-rc.1",
+    "leaflet": "^1.7.1",
+    "leaflet-defaulticon-compatibility": "^0.1.1",
+    "next": "10.0.5",
+    "openweather-apis": "^4.4.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-leaflet": "^3.0.5",
+    "react-redux": "^7.2.2"
+  },
+  "devDependencies": {}
+}

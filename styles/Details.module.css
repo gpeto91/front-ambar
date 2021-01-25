@@ -1,0 +1,28 @@
+.navigation {
+    width: 100%;
+    padding: .5rem;
+}
+
+.navigation__content {
+    max-width: 900px;
+    margin: 1em auto;
+}
+
+.content {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+    gap: 10px;
+}
+
+.info-text {
+    width: 100%;
+    background-color: #c2e9fc;
+    padding: .5rem;
+    color: #015f8c;
+}

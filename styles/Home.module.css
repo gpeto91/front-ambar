@@ -1,0 +1,14 @@
+.description {
+  padding: .5rem;
+  width: 100%;
+}
+
+.description__content {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  max-width: 900px;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
